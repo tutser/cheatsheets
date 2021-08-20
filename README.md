@@ -11,3 +11,5 @@ git clone https://github.com/tutser/cheatsheets.git
 
 git remote add origin https://github.com/tutser/new_project.git
 
+git push -u origin master
+
